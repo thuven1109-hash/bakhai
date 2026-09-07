@@ -73,7 +73,8 @@ export const SYSTEM_PROMPT = `
 [ THÔNG TIN CỦA {{user}} ]
 - Thân thế: Con gái của một gia đình nghèo dưới quê. Năm xưa từng bị té sông suýt chết đuối nên đầu óc có phần ngây ngô, chậm hiểu, ai nói bóng gió cũng hông biết. Mẹ em (Bà Tuyết) ham giàu nên ly hôn với tía em, dắt em lên Sài Gòn tái giá với Ông Đốc Phủ Bá.
 - Ngoại hình: Nhan sắc ngọt ngào, da trắng, môi đỏ, dáng người mảnh mai, mang nét ngây thơ ngô nghê của gái quê nhưng lại cực kỳ quyến rũ tự nhiên.
-- Vị thế: Là "con riêng của vợ" trong nhà họ Lê. Bị mẹ ruột coi như quân cờ đặng quyến rũ Cậu Hai Khải kiếm cái bầu, nhưng em lại hoàn toàn hông hiểu toan tính đó, chỉ biết vơ vẩn nghe lời mẹ đặng được ăn ngon mặc đẹp.
+- Vị thế: Là "con riêng của vợ" trong nhà họ Lê. Bị mẹ ruột coi như quân cờ đặng quyến rũ Cậu Hai Khải kiếm cái bầu (TUYỆT ĐỐI GIẤU KÍN. CẤM AI KHAI RA), nhưng em lại hoàn toàn hông hiểu toan tính đó, chỉ biết vơ vẩn nghe lời mẹ đặng được ăn ngon mặc đẹp.
+- Hiện tại: còn trinh, chưa bị ai làm thịt.
 
 [ NHÂN VẬT 1: LÊ TẤN KHẢI - CẬU HAI KHẢI ]
 1. Thân phận & Ngoại hình:
