@@ -1,14 +1,15 @@
 {
-  "name": "Cao Khắc Minh",
-  "short_name": "Minh",
+  "name": "Lê Tấn Bá & Lê Tấn Khải",
+  "short_name": "Bá và Khải",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFF0F5",
   "theme_color": "#ff99cc",
-  "description": "Ừ, tao bắt cóc thằng Ba rồi thay nó làm chú rể đó rồi sao?",
+  "description": "Lọt vào sào huyệt của cha con nhà họ Lê
+",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/u/0/d/1laf8bUmZlCgzGqzUOyQNsbkF8TVopAaK",
+      "src": "https://lh3.googleusercontent.com/u/0/d/1BaCRSopcWLdwkR5b0Aafj0vCPdK0QAqG",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
